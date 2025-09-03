@@ -1,5 +1,5 @@
 <?php
-
+//Bretts assignment
 if ($_GET) {
 
     $name    = $_GET['customer'];
